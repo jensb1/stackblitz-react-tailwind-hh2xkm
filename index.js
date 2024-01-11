@@ -25,7 +25,7 @@ class App extends Component {
             <div class="font-bold text-xl mb-2">The Coldest asfd Sunset</div>
             <p class="text-gray-700 text-base">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              Voluptatibus quia, nulla! Maiores et perferendis eaque,
+              Voluptatibus quia, nulla! Maiores a sdfet perferendis eaque,
               exercitationem praesentium nihil.
             </p>
           </div>
